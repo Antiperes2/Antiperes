@@ -1,5 +1,7 @@
-### Hi there 👋
+### Merhaba Oradaki 👋
 
+Ben Antiperes
+Çok kötü bir codder değilim ama mükemmel de değilim siz karar verin :D
 <!--
 **Antiperes/Antiperes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
