@@ -1,7 +1,6 @@
-<h2 align="center">Merhaba Dostlarım 👋</h2>
+<h2 align="center">Hi there 👋</h2>
 <p align="center">
   <a href="https://discord.com/users/431140096821952513" target"blank_"><img src="https://img.shields.io/badge/discord%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
-
   <a href="https://www.reddit.com/user/Antiperess" target"blank_"><img src="https://img.shields.io/badge/reddit%20-ff3b00.svg?&style=for-the-badge&logo=reddit&logoColor=white"></a>
   <a href="https://www.youtube.com/channel/UCwGWcg_Du6idPMuu1ZfSd5w" target"blank_"><img src="https://img.shields.io/badge/youtube%20-ff0000.svg?&style=for-the-badge&logo=youtube&logoColor=white"></a>
   <a href="https://github.com/Antiperes" target"blank_"><img src="https://img.shields.io/badge/GitHub%20-191717.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
