@@ -18,4 +18,4 @@
 
  ### Spotify Oynatılıyor 🎧
 
-[<img src="" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/25r8lp4ubnnbc84oegxmfon5t)
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/25r8lp4ubnnbc84oegxmfon5t)
